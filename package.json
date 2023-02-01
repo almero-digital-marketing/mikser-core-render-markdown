@@ -1,13 +1,10 @@
 {
   "name": "mikser-core-render-markdown",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
-  },
-  "peerDependencies": {
-    "mikser-core": "^1.0.2"
   },
   "repository": {
     "type": "git",
